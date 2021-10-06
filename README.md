@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there ♂️🙋‍♀️ (She/Her)
 
-<!--
-**Freudelientje/Freudelientje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> ### The more I learn, the more stupid I feel 🤔
 
-Here are some ideas to get you started:
+* Educated on International Business (a long time ago)
+* Background in ICT project support, as a functional application pro & trainer for Microsft business tools
+* Looking into Data Engineering & Analysis (Azure & Power BI)
+* I’m currently struggling with markdown, dax, Python and SQL
+* I need to freshen up Dynamics application knowledge, french, croaching
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
