@@ -13,5 +13,10 @@
   * If you are also new, I recommend looking into https://github.com/katiehuangx/How-to-Create-a-GitHub-Portfolio
 
 
+```sql -- Add 3 backticks followed by sql
+SELECT *
+FROM student_info
+WHERE student_name = 'Freudelientje';
+```
 
 
